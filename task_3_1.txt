@@ -1,0 +1,13 @@
+-r--r--r-- 1 student  student    0  f_anakin_0
+-rw-r-xr-- 1 student  student    0  f_luke_1
+-rw-r--r-- 1 student  student    0  f_leia_2
+--w--w--w- 1 student  student    0  f_han_3
+-r-------- 1 student  student    0  f_kenobi_4
+---x--x--x 1 student  student    0  f_lando_5
+-rx---x--- 1 student  student    0  f_c3-po_6
+-rwxrwxrwx 1 student  student    0  f_r2-d2_7
+---------- 1 student  student    0  f_chewbacca_8
+-rw-r----- 1 student  student    0  f_yoda_9
+-rwxr--r-- 1 student  student    0  f_maul_10
+-rw-r--r-x 1 student  student    0  f_palpatine_11
+-rw-rw-rw- 1 student  student    0  f_grievous_12
